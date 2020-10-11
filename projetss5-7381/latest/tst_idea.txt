@@ -1,0 +1,16 @@
+Idée de test :
+
+-test avec 2 joueurs
+-test avec 20 joueurs
+
+-test avec m = 2
+-test avec m = 1000
+
+-test est ce le prio qui sort en premier du queue_top
+-test avec : -est ce qu'il sort
+	     -est ce qu'il re-rentre
+
+-test transaction sortante
+-test transaction entrante
+
+-s 5 --> N= 87/16 --> num_transac = 1/1
